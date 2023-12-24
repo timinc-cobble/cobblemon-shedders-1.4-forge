@@ -5,9 +5,9 @@ license = "MIT"
 [[mods]]
 modId = "cobblemon_shedders"
 version = "1.4-forge-1.0.2"
-displayName = "Cobblemon Capture XP"
+displayName = "Cobblemon Shedders"
 description = '''
-Grants EXP for your team when you capture a wild Pokemon
+You know how when Ninjask evolves, Shedinja pops up? That, but you can do it for arbitrary Pokemon.
 '''
 
 [[dependencies.cobblemon_shedders]]
